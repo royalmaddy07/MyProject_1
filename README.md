@@ -1,2 +1,3 @@
 # MyProject_1
-THIS REPO CONTAINS THE CODES OF MY PROJECT - PREDICTING STOCK PRICES USING KOLMOGOROV-SMIRNOV TEST AND DISTRIBUTIONAL FITTING WITH WEIGHTED DISTRIBUTION AVERAGING.
+This repositary contains the code for my project - PREDICTING STOCK PRICES USING KOLMOGOROV-SMIRNOV TEST AND DISTRIBUTIONAL FITTING WITH WEIGHTED DISTRIBUTION AVERAGING.
+NOTE : After parsing/processing the raw_data.csv a historical_data.csv file will be generated. To this historical_data.csv file remove all the headers and write a single header line "Time,Closing price" for the main.cpp algorithm to process it and for result generation.
